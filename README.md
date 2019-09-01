@@ -1,2 +1,2 @@
 # portfolio
-yusfiadi.github.io/portfolio/
+https://yusfiadi.github.io/portfolio/
